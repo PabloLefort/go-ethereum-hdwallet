@@ -22,7 +22,7 @@
 go get -u github.com/miguelmota/go-ethereum-hdwallet
 ```
 
-## Documenation
+## Documentation
 
 [https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet](https://godoc.org/github.com/miguelmota/go-ethereum-hdwallet)
 
